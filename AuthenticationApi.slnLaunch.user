@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AuthenticationApi\\AuthenticationApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuthenticationUi\\AuthenticationUi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
